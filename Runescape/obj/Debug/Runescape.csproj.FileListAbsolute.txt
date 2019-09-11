@@ -1,0 +1,6 @@
+/home/odum/c#/Runescape/Runescape/bin/Debug/Runescape.exe
+/home/odum/c#/Runescape/Runescape/bin/Debug/Runescape.pdb
+/home/odum/c#/Runescape/Runescape/obj/Debug/Runescape.csprojAssemblyReference.cache
+/home/odum/c#/Runescape/Runescape/obj/Debug/Runescape.csproj.CoreCompileInputs.cache
+/home/odum/c#/Runescape/Runescape/obj/Debug/Runescape.exe
+/home/odum/c#/Runescape/Runescape/obj/Debug/Runescape.pdb
