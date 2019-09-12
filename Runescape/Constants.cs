@@ -3,7 +3,7 @@ namespace Runescape{
         public const int SkillCount = 24;
 
         public static string[] SkillNames = {
-            "TotalLevel",
+            "Total Level",
             "Attack",
             "Defence",
             "Strength",

@@ -1,4 +1,4 @@
-namespace Runescape{
+namespace Runescape.Account{
     public class Skill{
         public string SkillName;
         public long Rank;
@@ -6,7 +6,7 @@ namespace Runescape{
         public long XP;
 
         public override string ToString() {
-            return Rank.ToString() + " " + Level.ToString() + " " + ((double)XP / 1000000).ToString("0.0") + "M";
+            return Rank + " " + Level + " " + ((double)XP / 1000000).ToString("0.0") + "M";
         }
     }
 }

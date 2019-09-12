@@ -5,18 +5,22 @@
     <e p="$USER_HOME$/.Rider2018.3/system/resharper-host/local/Transient/ReSharperHost/v183/SolutionCaches/_Runescape.949989263.00" t="ExcludeRecursive" />
     <e p="$PROJECT_DIR$" t="IncludeFlat">
       <e p="Runescape" t="IncludeRecursive">
-        <e p="API.cs" t="Include" />
+        <e p="Account" t="Include">
+          <e p="Player.cs" t="Include" />
+          <e p="Skill.cs" t="Include" />
+          <e p="Skills.cs" t="Include" />
+        </e>
         <e p="Constants.cs" t="Include" />
-        <e p="Helper.cs" t="Include" />
-        <e p="Player.cs" t="Include" />
         <e p="Program.cs" t="Include" />
         <e p="Properties" t="Include">
           <e p="AssemblyInfo.cs" t="Include" />
         </e>
         <e p="Runescape.csproj" t="IncludeRecursive" />
-        <e p="Skill.cs" t="Include" />
-        <e p="Skills.cs" t="Include" />
-        <e p="XpTracker.cs" t="Include" />
+        <e p="Tools" t="Include">
+          <e p="CsvApiPrinter.cs" t="Include" />
+          <e p="HighscoreAPI.cs" t="Include" />
+          <e p="XpTracker.cs" t="Include" />
+        </e>
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive" />
       </e>

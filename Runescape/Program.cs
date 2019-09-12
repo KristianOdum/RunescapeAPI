@@ -1,16 +1,18 @@
 ﻿using System;
 using System.Net;
+using Runescape.Account;
+using Runescape.Tools;
 
 namespace Runescape{
     
     internal class Program{
         public static void Main(string[] args) {
-            string name = "ironodum";
-            Player player = new Player(name, "normal");
-            player.LoadStatsFromAPI();
+            string username = "ironodum";
+            string accountType = "ironman";
+            Player player = new Player(username, accountType);
             
-            player.PrintStats();
-            XpTracker.UpdateCrystalMathLabs(name);
+            CsvApiPrinter csv = new CsvApiPrinter(player);
+            csv.PrintStatstoCSV();
         }
     }
 }

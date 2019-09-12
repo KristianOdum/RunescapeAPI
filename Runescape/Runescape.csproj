@@ -38,15 +38,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="API.cs" />
+    <Compile Include="Account\Player.cs" />
+    <Compile Include="Account\Skill.cs" />
+    <Compile Include="Account\Skills.cs" />
     <Compile Include="Constants.cs" />
-    <Compile Include="Helper.cs" />
-    <Compile Include="Player.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Skill.cs" />
-    <Compile Include="Skills.cs" />
-    <Compile Include="XpTracker.cs" />
+    <Compile Include="Tools\CsvApiPrinter.cs" />
+    <Compile Include="Tools\HighscoreAPI.cs" />
+    <Compile Include="Tools\XpTracker.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
