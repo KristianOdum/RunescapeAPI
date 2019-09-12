@@ -4,9 +4,9 @@ using Runescape.Account;
 
 namespace Runescape.Tools{
     public class XpTracker{
-        public string TrackingStatus;
         
-        public void UpdatePlayer(Player player) {
+        public static string Update(Player player) {
+            string trackingStatus;
             string a = player.Username.Replace(" ", "+");
             
             HttpWebRequest request = (HttpWebRequest) WebRequest.Create(
@@ -14,11 +14,13 @@ namespace Runescape.Tools{
             HttpWebResponse response = (HttpWebResponse) request.GetResponse();
             
             if(response.StatusDescription == "OK")
-                TrackingStatus = player.Username + "'s tracker has been updated.";
+                trackingStatus = player.Username + "'s tracker has been updated.";
             else {
-                TrackingStatus = "An error occured during tracking update on CrystalMathLabs";
-                throw new Exception(TrackingStatus);
+                trackingStatus = "An error occured during tracking update on CrystalMathLabs";
+                throw new Exception(trackingStatus);
             }
+
+            return trackingStatus;
         }
     }
 }

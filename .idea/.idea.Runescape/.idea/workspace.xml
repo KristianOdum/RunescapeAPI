@@ -2,9 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84e30b31-ccb5-476b-abd1-2913a6d6f23f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Runescape/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Runescape/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Runescape/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Runescape/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Runescape/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runescape/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Runescape/Tools/CsvApiPrinter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runescape/Tools/CsvApiPrinter.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runescape/Tools/XpTracker.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Runescape/Tools/XpTracker.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runescape/bin/Debug/Runescape.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Runescape/bin/Debug/Runescape.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runescape/bin/Debug/Runescape.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Runescape/bin/Debug/Runescape.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runescape/obj/Debug/Runescape.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Runescape/obj/Debug/Runescape.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runescape/obj/Debug/Runescape.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Runescape/obj/Debug/Runescape.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runescape/obj/Debug/Runescape.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Runescape/obj/Debug/Runescape.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runescape/obj/Debug/Runescape.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Runescape/obj/Debug/Runescape.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runescape/obj/Debug/Runescape.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Runescape/obj/Debug/Runescape.pdb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,16 +23,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Runescape/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+            <state relative-caret-position="176">
+              <caret line="14" column="41" lean-forward="true" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
               <folding>
-                <marker date="1568296521477" expanded="true" signature="6:79" ph="..." />
-                <marker date="1568296521477" expanded="true" signature="100:464" ph="{...}" />
-                <marker date="1568296521477" expanded="true" signature="133:462" ph="{...}" />
-                <marker date="1568296521477" expanded="true" signature="182:456" ph="{...}" />
+                <marker date="1568305079189" expanded="false" signature="6:79" ph="..." />
+                <marker date="1568305079189" expanded="true" signature="100:508" ph="{...}" />
+                <marker date="1568305079189" expanded="true" signature="133:506" ph="{...}" />
+                <marker date="1568305079189" expanded="true" signature="182:500" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Runescape/Tools/XpTracker.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="7" column="34" lean-forward="true" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="41" />
+              <folding>
+                <marker date="1568305079195" expanded="false" signature="6:56" ph="..." />
+                <marker date="1568305079195" expanded="true" signature="83:900" ph="{...}" />
+                <marker date="1568305079195" expanded="true" signature="111:898" ph="{...}" />
+                <marker date="1568305079195" expanded="true" signature="179:892" ph="{...}" />
+                <marker date="1568305079195" expanded="true" signature="665:846" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -32,12 +57,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Runescape/Constants.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
+            <state relative-caret-position="96">
               <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
               <folding>
-                <marker date="1568275112553" expanded="true" signature="19:733" ph="{...}" />
-                <marker date="1568275112553" expanded="true" signature="54:731" ph="{...}" />
-                <marker date="1568275112553" expanded="true" signature="143:724" ph="{...}" />
+                <marker date="1568298777758" expanded="true" signature="19:733" ph="{...}" />
+                <marker date="1568298777758" expanded="true" signature="54:731" ph="{...}" />
+                <marker date="1568298777758" expanded="true" signature="143:724" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -46,15 +71,15 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Runescape/Account/Skill.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
+            <state relative-caret-position="128">
               <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
               <folding>
-                <marker date="1568282624988" expanded="true" signature="27:629" ph="{...}" />
-                <marker date="1568282624988" expanded="true" signature="51:627" ph="{...}" />
-                <marker date="1568282624988" expanded="true" signature="190:364" ph="{...}" />
-                <marker date="1568282624988" expanded="true" signature="232:354" ph="{...}" />
-                <marker date="1568282624988" expanded="true" signature="446:517" ph="{...}" />
-                <marker date="1568282624988" expanded="true" signature="555:621" ph="{...}" />
+                <marker date="1568298777757" expanded="true" signature="27:629" ph="{...}" />
+                <marker date="1568298777757" expanded="true" signature="51:627" ph="{...}" />
+                <marker date="1568298777757" expanded="true" signature="190:364" ph="{...}" />
+                <marker date="1568298777757" expanded="true" signature="232:354" ph="{...}" />
+                <marker date="1568298777757" expanded="true" signature="446:517" ph="{...}" />
+                <marker date="1568298777757" expanded="true" signature="555:621" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -63,11 +88,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Runescape/Account/EnumSkills.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
+            <state relative-caret-position="32">
               <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
               <folding>
-                <marker date="1568280308632" expanded="true" signature="27:494" ph="{...}" />
-                <marker date="1568280308632" expanded="true" signature="56:492" ph="{...}" />
+                <marker date="1568298777754" expanded="true" signature="27:494" ph="{...}" />
+                <marker date="1568298777754" expanded="true" signature="56:492" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -76,14 +101,14 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Runescape/Tools/HighscoreAPI.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
+            <state relative-caret-position="256">
+              <caret line="18" column="71" selection-start-line="18" selection-start-column="71" selection-end-line="18" selection-end-column="71" />
               <folding>
-                <marker date="1568280025300" expanded="true" signature="6:56" ph="..." />
-                <marker date="1568280025300" expanded="true" signature="83:955" ph="{...}" />
-                <marker date="1568280025300" expanded="true" signature="114:953" ph="{...}" />
-                <marker date="1568280025300" expanded="true" signature="314:441" ph="{...}" />
-                <marker date="1568280025300" expanded="true" signature="494:947" ph="{...}" />
+                <marker date="1568298777764" expanded="false" signature="6:56" ph="..." />
+                <marker date="1568298777764" expanded="true" signature="83:955" ph="{...}" />
+                <marker date="1568298777764" expanded="true" signature="114:953" ph="{...}" />
+                <marker date="1568298777764" expanded="true" signature="314:441" ph="{...}" />
+                <marker date="1568298777764" expanded="true" signature="494:947" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -92,18 +117,18 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Runescape/Tools/CsvApiPrinter.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="552">
-              <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+            <state relative-caret-position="256">
+              <caret line="24" column="47" selection-start-line="24" selection-start-column="47" selection-end-line="24" selection-end-column="47" />
               <folding>
-                <marker date="1568296521485" expanded="true" signature="6:131" ph="..." />
-                <marker date="1568296521485" expanded="true" signature="158:1391" ph="{...}" />
-                <marker date="1568296521485" expanded="true" signature="190:1389" ph="{...}" />
-                <marker date="1568296521485" expanded="true" signature="286:327" ph="{...}" />
-                <marker date="1568296521485" expanded="true" signature="375:620" ph="{...}" />
-                <marker date="1568296521485" expanded="true" signature="667:803" ph="{...}" />
-                <marker date="1568296521485" expanded="true" signature="844:1383" ph="{...}" />
-                <marker date="1568296521485" expanded="true" signature="1060:1139" ph="{...}" />
-                <marker date="1568296521485" expanded="true" signature="1139:1338" ph="{...}" />
+                <marker date="1568305079183" expanded="false" signature="6:131" ph="..." />
+                <marker date="1568305079183" expanded="true" signature="158:1787" ph="{...}" />
+                <marker date="1568305079183" expanded="true" signature="190:1785" ph="{...}" />
+                <marker date="1568305079183" expanded="true" signature="571:612" ph="{...}" />
+                <marker date="1568305079183" expanded="true" signature="660:907" ph="{...}" />
+                <marker date="1568305079183" expanded="true" signature="954:1206" ph="{...}" />
+                <marker date="1568305079183" expanded="true" signature="1247:1779" ph="{...}" />
+                <marker date="1568305079183" expanded="true" signature="1382:1460" ph="{...}" />
+                <marker date="1568305079183" expanded="true" signature="1460:1722" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -112,17 +137,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Runescape/Account/Player.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="575">
+            <state relative-caret-position="400">
               <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
               <folding>
-                <marker date="1568280360824" expanded="false" signature="6:87" ph="..." />
-                <marker date="1568280360824" expanded="true" signature="116:1509" ph="{...}" />
-                <marker date="1568280360824" expanded="true" signature="141:1507" ph="{...}" />
-                <marker date="1568280360824" expanded="true" signature="388:496" ph="{...}" />
-                <marker date="1568280360824" expanded="true" signature="531:1070" ph="{...}" />
-                <marker date="1568280360824" expanded="true" signature="767:1060" ph="{...}" />
-                <marker date="1568280360824" expanded="true" signature="1105:1501" ph="{...}" />
-                <marker date="1568280360824" expanded="true" signature="1166:1491" ph="{...}" />
+                <marker date="1568298777756" expanded="false" signature="6:87" ph="..." />
+                <marker date="1568298777756" expanded="true" signature="116:1509" ph="{...}" />
+                <marker date="1568298777756" expanded="true" signature="141:1507" ph="{...}" />
+                <marker date="1568298777756" expanded="true" signature="388:496" ph="{...}" />
+                <marker date="1568298777756" expanded="true" signature="531:1070" ph="{...}" />
+                <marker date="1568298777756" expanded="true" signature="767:1060" ph="{...}" />
+                <marker date="1568298777756" expanded="true" signature="1105:1501" ph="{...}" />
+                <marker date="1568298777756" expanded="true" signature="1166:1491" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -134,14 +159,14 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Runescape/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Runescape/Tools/HighscoreAPI.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Runescape/Tools/XpTracker.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Runescape/Constants.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Runescape/Account/Player.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Runescape/Tools/CsvApiPrinter.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Runescape/Account/EnumSkills.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Runescape/Account/Skill.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Runescape/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Runescape/Account/Player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Runescape/Tools/HighscoreAPI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Runescape/Tools/XpTracker.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Runescape/Tools/CsvApiPrinter.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -156,12 +181,12 @@
         <option value="$PROJECT_DIR$/Runescape/Account/Skills.cs" />
         <option value="$PROJECT_DIR$/Runescape/XpTracker.cs" />
         <option value="$PROJECT_DIR$/Runescape/Tools/API.cs" />
-        <option value="$PROJECT_DIR$/Runescape/Tools/XpTracker.cs" />
         <option value="$PROJECT_DIR$/Runescape/Tools/HighscoreAPI.cs" />
         <option value="$PROJECT_DIR$/Runescape/Account/EnumSkills.cs" />
         <option value="$PROJECT_DIR$/Runescape/Account/Player.cs" />
         <option value="$PROJECT_DIR$/Runescape/Account/Skill.cs" />
         <option value="$PROJECT_DIR$/Runescape/Tools/CsvApiPrinter.cs" />
+        <option value="$PROJECT_DIR$/Runescape/Tools/XpTracker.cs" />
         <option value="$PROJECT_DIR$/Runescape/Program.cs" />
       </list>
     </option>
@@ -172,11 +197,10 @@
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="67" />
-    <option name="y" value="25" />
-    <option name="width" value="927" />
-    <option name="height" value="1055" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="755" />
+    <option name="width" value="1172" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -186,8 +210,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AssemblyExplorer" />
-      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -204,12 +226,6 @@
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="Runescape" type="24d0babc:SolutionExplorerModelNode" />
               <item name="Runescape" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Account" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="Runescape" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Runescape" type="24d0babc:SolutionExplorerModelNode" />
               <item name="Tools" type="24d0babc:SolutionExplorerModelNode" />
             </path>
           </expand>
@@ -217,6 +233,8 @@
         </subPane>
         <option name="show-all-files" value="false" />
       </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -274,6 +292,8 @@
       <workItem from="1568193286576" duration="26797000" />
       <workItem from="1568293749353" duration="9000" />
       <workItem from="1568295325078" duration="1197000" />
+      <workItem from="1568298865583" duration="1907000" />
+      <workItem from="1568304086379" duration="993000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1568235704076</created>
@@ -286,7 +306,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28003000" />
+    <option name="totallyTimeSpent" value="30903000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -298,17 +318,17 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <frame x="755" y="0" width="1172" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18539014" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.38758993" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32937366" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32932165" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39978448" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -320,13 +340,15 @@
       <window_info anchor="bottom" id="Unit Tests" order="11" />
       <window_info anchor="bottom" id="Terminal" order="12" />
       <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
-      <window_info anchor="bottom" id="Build" order="14" weight="0.32937366" />
+      <window_info anchor="bottom" id="Build" order="14" weight="0.32932165" />
+      <window_info anchor="bottom" id="Performance Profiler" order="15" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="right" id="Errors In Solution" order="4" />
       <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" />
     </layout>
     <layout-to-restore>
       <window_info id="Image Layers" order="0" />
@@ -379,116 +401,123 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Runescape/Stats.cs" />
     <entry file="file://$PROJECT_DIR$/Runescape/Helper.cs" />
-    <entry file="file://$PROJECT_DIR$/Runescape/Tools/XpTracker.cs">
+    <entry file="file://$PROJECT_DIR$/Runescape/Runescape.csproj">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="5" column="27" lean-forward="true" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
-          <folding>
-            <marker date="1568277143280" expanded="false" signature="6:56" ph="..." />
-            <marker date="1568277143280" expanded="true" signature="83:858" ph="{...}" />
-            <marker date="1568277143280" expanded="true" signature="111:856" ph="{...}" />
-            <marker date="1568277143280" expanded="true" signature="208:850" ph="{...}" />
-            <marker date="1568277143280" expanded="true" signature="659:840" ph="{...}" />
-          </folding>
+        <state relative-caret-position="384">
+          <caret line="24" column="65" selection-start-line="24" selection-start-column="65" selection-end-line="24" selection-end-column="65" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Runescape/Constants.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
+        <state relative-caret-position="96">
           <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
           <folding>
-            <marker date="1568275112553" expanded="true" signature="19:733" ph="{...}" />
-            <marker date="1568275112553" expanded="true" signature="54:731" ph="{...}" />
-            <marker date="1568275112553" expanded="true" signature="143:724" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Runescape/Account/EnumSkills.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-          <folding>
-            <marker date="1568280308632" expanded="true" signature="27:494" ph="{...}" />
-            <marker date="1568280308632" expanded="true" signature="56:492" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Runescape/Account/Player.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
-          <folding>
-            <marker date="1568280360824" expanded="false" signature="6:87" ph="..." />
-            <marker date="1568280360824" expanded="true" signature="116:1509" ph="{...}" />
-            <marker date="1568280360824" expanded="true" signature="141:1507" ph="{...}" />
-            <marker date="1568280360824" expanded="true" signature="388:496" ph="{...}" />
-            <marker date="1568280360824" expanded="true" signature="531:1070" ph="{...}" />
-            <marker date="1568280360824" expanded="true" signature="767:1060" ph="{...}" />
-            <marker date="1568280360824" expanded="true" signature="1105:1501" ph="{...}" />
-            <marker date="1568280360824" expanded="true" signature="1166:1491" ph="{...}" />
+            <marker date="1568298777758" expanded="true" signature="19:733" ph="{...}" />
+            <marker date="1568298777758" expanded="true" signature="54:731" ph="{...}" />
+            <marker date="1568298777758" expanded="true" signature="143:724" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Runescape/Account/Skill.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
+        <state relative-caret-position="128">
           <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
           <folding>
-            <marker date="1568282624988" expanded="true" signature="27:629" ph="{...}" />
-            <marker date="1568282624988" expanded="true" signature="51:627" ph="{...}" />
-            <marker date="1568282624988" expanded="true" signature="190:364" ph="{...}" />
-            <marker date="1568282624988" expanded="true" signature="232:354" ph="{...}" />
-            <marker date="1568282624988" expanded="true" signature="446:517" ph="{...}" />
-            <marker date="1568282624988" expanded="true" signature="555:621" ph="{...}" />
+            <marker date="1568298777757" expanded="true" signature="27:629" ph="{...}" />
+            <marker date="1568298777757" expanded="true" signature="51:627" ph="{...}" />
+            <marker date="1568298777757" expanded="true" signature="190:364" ph="{...}" />
+            <marker date="1568298777757" expanded="true" signature="232:354" ph="{...}" />
+            <marker date="1568298777757" expanded="true" signature="446:517" ph="{...}" />
+            <marker date="1568298777757" expanded="true" signature="555:621" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runescape/Account/Player.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+          <folding>
+            <marker date="1568298777756" expanded="false" signature="6:87" ph="..." />
+            <marker date="1568298777756" expanded="true" signature="116:1509" ph="{...}" />
+            <marker date="1568298777756" expanded="true" signature="141:1507" ph="{...}" />
+            <marker date="1568298777756" expanded="true" signature="388:496" ph="{...}" />
+            <marker date="1568298777756" expanded="true" signature="531:1070" ph="{...}" />
+            <marker date="1568298777756" expanded="true" signature="767:1060" ph="{...}" />
+            <marker date="1568298777756" expanded="true" signature="1105:1501" ph="{...}" />
+            <marker date="1568298777756" expanded="true" signature="1166:1491" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runescape/Account/EnumSkills.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+          <folding>
+            <marker date="1568298777754" expanded="true" signature="27:494" ph="{...}" />
+            <marker date="1568298777754" expanded="true" signature="56:492" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Runescape/Tools/HighscoreAPI.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
+        <state relative-caret-position="256">
+          <caret line="18" column="71" selection-start-line="18" selection-start-column="71" selection-end-line="18" selection-end-column="71" />
           <folding>
-            <marker date="1568280025300" expanded="true" signature="6:56" ph="..." />
-            <marker date="1568280025300" expanded="true" signature="83:955" ph="{...}" />
-            <marker date="1568280025300" expanded="true" signature="114:953" ph="{...}" />
-            <marker date="1568280025300" expanded="true" signature="314:441" ph="{...}" />
-            <marker date="1568280025300" expanded="true" signature="494:947" ph="{...}" />
+            <marker date="1568298777764" expanded="false" signature="6:56" ph="..." />
+            <marker date="1568298777764" expanded="true" signature="83:955" ph="{...}" />
+            <marker date="1568298777764" expanded="true" signature="114:953" ph="{...}" />
+            <marker date="1568298777764" expanded="true" signature="314:441" ph="{...}" />
+            <marker date="1568298777764" expanded="true" signature="494:947" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Runescape/Tools/CsvApiPrinter.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+        <state relative-caret-position="256">
+          <caret line="24" column="47" selection-start-line="24" selection-start-column="47" selection-end-line="24" selection-end-column="47" />
           <folding>
-            <marker date="1568296521485" expanded="true" signature="6:131" ph="..." />
-            <marker date="1568296521485" expanded="true" signature="158:1391" ph="{...}" />
-            <marker date="1568296521485" expanded="true" signature="190:1389" ph="{...}" />
-            <marker date="1568296521485" expanded="true" signature="286:327" ph="{...}" />
-            <marker date="1568296521485" expanded="true" signature="375:620" ph="{...}" />
-            <marker date="1568296521485" expanded="true" signature="667:803" ph="{...}" />
-            <marker date="1568296521485" expanded="true" signature="844:1383" ph="{...}" />
-            <marker date="1568296521485" expanded="true" signature="1060:1139" ph="{...}" />
-            <marker date="1568296521485" expanded="true" signature="1139:1338" ph="{...}" />
+            <marker date="1568305079183" expanded="false" signature="6:131" ph="..." />
+            <marker date="1568305079183" expanded="true" signature="158:1787" ph="{...}" />
+            <marker date="1568305079183" expanded="true" signature="190:1785" ph="{...}" />
+            <marker date="1568305079183" expanded="true" signature="571:612" ph="{...}" />
+            <marker date="1568305079183" expanded="true" signature="660:907" ph="{...}" />
+            <marker date="1568305079183" expanded="true" signature="954:1206" ph="{...}" />
+            <marker date="1568305079183" expanded="true" signature="1247:1779" ph="{...}" />
+            <marker date="1568305079183" expanded="true" signature="1382:1460" ph="{...}" />
+            <marker date="1568305079183" expanded="true" signature="1460:1722" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Runescape/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+        <state relative-caret-position="176">
+          <caret line="14" column="41" lean-forward="true" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
           <folding>
-            <marker date="1568296521477" expanded="true" signature="6:79" ph="..." />
-            <marker date="1568296521477" expanded="true" signature="100:464" ph="{...}" />
-            <marker date="1568296521477" expanded="true" signature="133:462" ph="{...}" />
-            <marker date="1568296521477" expanded="true" signature="182:456" ph="{...}" />
+            <marker date="1568305079189" expanded="false" signature="6:79" ph="..." />
+            <marker date="1568305079189" expanded="true" signature="100:508" ph="{...}" />
+            <marker date="1568305079189" expanded="true" signature="133:506" ph="{...}" />
+            <marker date="1568305079189" expanded="true" signature="182:500" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runescape/Tools/XpTracker.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="7" column="34" lean-forward="true" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="41" />
+          <folding>
+            <marker date="1568305079195" expanded="false" signature="6:56" ph="..." />
+            <marker date="1568305079195" expanded="true" signature="83:900" ph="{...}" />
+            <marker date="1568305079195" expanded="true" signature="111:898" ph="{...}" />
+            <marker date="1568305079195" expanded="true" signature="179:892" ph="{...}" />
+            <marker date="1568305079195" expanded="true" signature="665:846" ph="{...}" />
           </folding>
         </state>
       </provider>

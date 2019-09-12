@@ -13,6 +13,7 @@ namespace Runescape{
             
             CsvApiPrinter csv = new CsvApiPrinter(player);
             csv.PrintStatsToCsvDropbox();
+            Console.WriteLine(XpTracker.Update(player));
         }
     }
 }

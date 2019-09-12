@@ -4,3 +4,9 @@
 /home/odum/c#/Runescape/Runescape/obj/Debug/Runescape.csproj.CoreCompileInputs.cache
 /home/odum/c#/Runescape/Runescape/obj/Debug/Runescape.exe
 /home/odum/c#/Runescape/Runescape/obj/Debug/Runescape.pdb
+C:\Users\Ødum\Desktop\projects\RunescapeAPI\Runescape\bin\Debug\Runescape.exe
+C:\Users\Ødum\Desktop\projects\RunescapeAPI\Runescape\bin\Debug\Runescape.pdb
+C:\Users\Ødum\Desktop\projects\RunescapeAPI\Runescape\obj\Debug\Runescape.csprojAssemblyReference.cache
+C:\Users\Ødum\Desktop\projects\RunescapeAPI\Runescape\obj\Debug\Runescape.csproj.CoreCompileInputs.cache
+C:\Users\Ødum\Desktop\projects\RunescapeAPI\Runescape\obj\Debug\Runescape.exe
+C:\Users\Ødum\Desktop\projects\RunescapeAPI\Runescape\obj\Debug\Runescape.pdb
