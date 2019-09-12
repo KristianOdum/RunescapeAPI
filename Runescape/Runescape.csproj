@@ -40,7 +40,7 @@
   <ItemGroup>
     <Compile Include="Account\Player.cs" />
     <Compile Include="Account\Skill.cs" />
-    <Compile Include="Account\Skills.cs" />
+    <Compile Include="Account\EnumSkills.cs" />
     <Compile Include="Constants.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

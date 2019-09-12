@@ -6,9 +6,9 @@
     <e p="$PROJECT_DIR$" t="IncludeFlat">
       <e p="Runescape" t="IncludeRecursive">
         <e p="Account" t="Include">
+          <e p="EnumSkills.cs" t="Include" />
           <e p="Player.cs" t="Include" />
           <e p="Skill.cs" t="Include" />
-          <e p="Skills.cs" t="Include" />
         </e>
         <e p="Constants.cs" t="Include" />
         <e p="Program.cs" t="Include" />

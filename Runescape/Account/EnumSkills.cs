@@ -1,5 +1,5 @@
 namespace Runescape.Account{
-    public enum Skills {
+    public enum EnumSkills {
         TotalLevel = 0,
         Attack,
         Defence,

@@ -21,7 +21,6 @@ namespace Runescape.Account{
             Api = api.PlayerAPI;
             
             string[] skillSet = Api.Split(',', '\n');
-            Console.WriteLine("hej"+skillSet);
             
             for (int i = 0, j = 0; i < Constants.SkillCount; i++) {
                 Stats.Add(new Skill());
@@ -40,7 +39,5 @@ namespace Runescape.Account{
                                   Stats[i].XP.ToString("#,##0").PadLeft(13));
             }
         }
-        
-
     }
 }
