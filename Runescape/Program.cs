@@ -12,7 +12,7 @@ namespace Runescape{
             Player player = new Player(username, accountType);
             
             CsvApiPrinter csv = new CsvApiPrinter(player);
-            csv.PrintStatsToCsv();
+            csv.PrintStatsToCsvDropbox();
         }
     }
 }
