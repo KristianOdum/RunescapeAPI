@@ -51,7 +51,7 @@ namespace Runescape{
                 Console.WriteLine(Constants.SkillNames[i].PadRight(12) + " " + 
                                   Stats[i].Rank.ToString().PadLeft(7) + " " +
                                   Stats[i].Level.ToString().PadLeft(4) + " " +
-                                  Stats[i].XP.ToString("#,##0"));
+                                  Stats[i].XP.ToString("#,##0").PadLeft(13));
             }
         }
     }

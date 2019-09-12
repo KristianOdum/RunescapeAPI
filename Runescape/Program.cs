@@ -5,10 +5,12 @@ namespace Runescape{
     
     internal class Program{
         public static void Main(string[] args) {
-            Player player = new Player("lynx titan", "normal");
+            string name = "ironodum";
+            Player player = new Player(name, "normal");
             player.LoadStatsFromAPI();
             
-            
+            player.PrintStats();
+            XpTracker.UpdateCrystalMathLabs(name);
         }
     }
 }
